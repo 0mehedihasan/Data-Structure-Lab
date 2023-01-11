@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673420000 source:f:\mehedi-334-49-8\number pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+
