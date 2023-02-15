@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676446588 source:c:\users\students\desktop\lab test-01\string replace\main.c
+	<stdio.h>
+	<string.h>
+
